@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Numan-karabela
-- 👀 yazılım'la ilgileniyorum
+- 👀 yazılım'la ilgileniiyorum
 - 🌱 I’m currently learning htlm css c# java
 - 📫 How to reach me ... 
 <!---
