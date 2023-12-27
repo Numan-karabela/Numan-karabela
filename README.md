@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Numan-karabela
 - 👀 yazılım'la ilgileniiyorum
-- 🌱 I’m currently learning htlm css c# java
+- 🌱 I’m currently learning  
 - 📫 How to reach me ... 
 <!---
 Numan-karabela/Numan-karabela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
