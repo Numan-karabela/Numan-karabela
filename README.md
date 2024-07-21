@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Numan</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
-
+ 
 
 ###
- <div align="center">
+ <div align="center" style=" display: flex,;
+      align-items:  center;">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlldzNlM2M2NHY1dmVqdXd6enBpNXFmam15M211c3FtYTZ2ZTllZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.gif"/>
 </div>
 ###
