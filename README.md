@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Numan</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
  
-
+ <style>
+    .container {
+      display: flex;
+      align-items: center;
+    }
+    .code {
+      margin-left: 20px;
+    }
+  </style>
 ###
- <div align="center" style=" display: flex,;
-      align-items:  center;">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlldzNlM2M2NHY1dmVqdXd6enBpNXFmam15M211c3FtYTZ2ZTllZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.gif"/>
+ <div class="container">
+    <div>
+      <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlldzNlM2M2NHY1dmVqdXd6enBpNXFmam15M211c3FtYTZ2ZTllZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.gif"/>
+    </div>
+    <div class="code">
 </div>
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=numan-karabela&label=Profile%20views&color=0e75b6&style=flat" alt="numan-karabela" /> </p>
