@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Numan</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
- 
+ <div align="center">
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVuYTdyNWZ5MWZiMXZibnhkMjhzZ3M3dHVtZHF2anpxN2E2a21uaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGcEliCc7bETyfO8/giphy.gif)"  />
+</div>
 ###
 
 ###
