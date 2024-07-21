@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Numan</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
+<div align="center">
+  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://www.freepik.com/free-psd/website-coding-icon-3d-illustration_28638422.htm#query=developers&position=42&from_view=keyword&track=sph&uuid=91ccd505-f83f-48af-9abc-a66e83312c93)"  />
+</div>
 
+###
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=numan-karabela&label=Profile%20views&color=0e75b6&style=flat" alt="numan-karabela" /> </p>
