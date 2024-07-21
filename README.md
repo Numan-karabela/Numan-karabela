@@ -4,7 +4,7 @@
 
 ###
  <div align="center">
-  <img height="200" src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlldzNlM2M2NHY1dmVqdXd6enBpNXFmam15M211c3FtYTZ2ZTllZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.gif"  />
+  <img height="200" src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlldzNlM2M2NHY1dmVqdXd6enBpNXFmam15M211c3FtYTZ2ZTllZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pqMSyHmekA1Qe7Utp7/giphy.gif"/>
 </div>
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=numan-karabela&label=Profile%20views&color=0e75b6&style=flat" alt="numan-karabela" /> </p>
