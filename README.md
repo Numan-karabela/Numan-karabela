@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Numan</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate back-end developer from Türkiye</h3>
  
 ###
  <div class="container"> 
